@@ -1,0 +1,22 @@
+racecar 
+race(car)
+12321
+124532
+12...3..4+3,<>2+1
+madamimadam
+MadAm i'M AdAm
+not a palindrome
+I, man, am Regal, a German am I
+Never odd or even
+If I had a Hi-Fi
+Madam, I'm Adam
+ananas
+@#$%^&*(test!@#$%^&*()(*&^%$#$%^&*(t#$%^&*()s#$%^&*e$%^&*()t))
+keithtiek
+
+empty line ^
+
+one space^
+$
+one symbol^
+
